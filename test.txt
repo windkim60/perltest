@@ -1,0 +1,7 @@
+// this is a comment
+{ // another comment
+   true, "foo", // 3rd comment
+   "http://www.ariba.com" // comment after URL
+   
+   "http://www.ariba.com" ,  "http:" // comment after URL
+}
